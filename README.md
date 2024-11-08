@@ -1,6 +1,6 @@
 # Analysis-and-Design-of-Advanced-Algorithms C++ 🚀
 
-[![Tec de Monterrey Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fjavier.rodriguez.org.mx%2Fprojects%2Fitesm-artwork&psig=AOvVaw0Ly5hQaORUvBkGqDXSMkoi&ust=1731169150448000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCKq-SRzYkDFQAAAAAdAAAAABAJ)
+[![Tec de Monterrey Banner](https://javier.rodriguez.org.mx/itesm/2014/tecnologico-de-monterrey-blue.png)
 
 Welcome to the **Advanced Algorithms in C++** repository! This repository contains a collection of complex and optimized algorithms written in C++.
 
